@@ -1,0 +1,7 @@
+# Archivos temporales / cachés
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+# Dataset local (se descarga automáticamente)
+data/
